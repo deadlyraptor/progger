@@ -10,8 +10,6 @@
 
 import sys
 import re
-import pprint
-import requests
 from bs4 import BeautifulSoup
 import spotipy
 import spotipy.util as util
